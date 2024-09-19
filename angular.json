@@ -35,7 +35,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/icons/font-awesome/css/font-awesome.min.css",
+              "src/assets/icons/simple-line-icons/css/simple-line-icons.css",
+              "src/assets/icons/weather-icons/css/weather-icons.min.css",
+              "src/assets/icons/linea-icons/linea.css",
+              "src/assets/icons/themify-icons/themify-icons.css",
+              "src/assets/icons/flag-icon-css/flag-icon.min.css",
+              "src/assets/icons/material-design-iconic-font/css/materialdesignicons.min.css"
             ],
             "scripts": []
           },
@@ -101,5 +108,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "3e405576-7ca2-401f-a95f-379d55c66875"
   }
 }
